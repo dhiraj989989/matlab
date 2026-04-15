@@ -1,0 +1,26 @@
+<mxGraphModel>
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+
+    <!-- Top face of the mat -->
+    <mxCell id="2" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+      <mxGeometry x="160" y="60" width="200" height="100" as="geometry" />
+    </mxCell>
+
+    <!-- Left face of the mat -->
+    <mxCell id="3" value="" style="shape=mxgraph.basic.parallelogram;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;" vertex="1" parent="1">
+      <mxGeometry x="80" y="110" width="160" height="80" as="geometry" />
+    </mxCell>
+
+    <!-- Right face of the mat -->
+    <mxCell id="4" value="" style="shape=mxgraph.basic.parallelogram;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;direction=south;" vertex="1" parent="1">
+      <mxGeometry x="240" y="110" width="160" height="80" as="geometry" />
+    </mxCell>
+
+    <!-- Label -->
+    <mxCell id="5" value="3D Mat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+      <mxGeometry x="215" y="95" width="80" height="30" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>
